@@ -14,7 +14,7 @@
 
 ---
 
-## Installation Guide
+## Installation Guide💻 🛠️
 
 ### Windows
 
@@ -36,7 +36,7 @@ sudo apt-get install tasktracker
 tasktracker
 This covers the installation process for Windows, macOS, and Linux in Markdown format. Let me know if you'd like to make any change
 ```
-## User Guide
+## User Guide📋 📂
 
 ### Creating a Task
 
@@ -65,12 +65,12 @@ You can generate reports summarizing task progress. Below is an example of a rep
     "overdue_tasks": 1
 }
 ```
-## Troubleshooting
+## Troubleshooting❌ 🛠️
 
 - **App won’t start**: Ensure that the app is installed correctly. Try restarting your computer.
 - **Tasks not saving**: Check if there’s enough storage space on your device.
 - **Notification issues**: Verify that notifications are enabled in your device settings.
-## Advanced Usage
+## Advanced Usage⚙️ 🤖
 
 ### Scripting
 
@@ -81,15 +81,15 @@ Task Tracker allows automation through scripting to repeat tasks or automate dai
 tasktracker add "Daily Standup Meeting" --deadline today
 tasktracker add "Review Code" --deadline today
 ```
-### Integrations
+### Integrations🔗 🤝
 
 | Application      | Description                                 | Link                                |
 |------------------|---------------------------------------------|-------------------------------------|
 | Google Calendar  | Sync tasks with your calendar.              | [Google Calendar](https://calendar.google.com) |
 | Slack            | Receive notifications in your Slack channel.| [Slack](https://slack.com)          |
-## Footnotes
+## Footnotes📝 📖
 
-This documentation is based on best practices for task management applications[^1]. For more details on productivity apps, refer to external resources[^2].
+This documentation follows widely accepted best practices for creating task management tools[^1]. For additional guidance and insights on improving productivity using apps like Task Tracker, check out external resources[^2].
 
-[^1]: Reference for best practices in task management software development.
-[^2]: [Productivity App Guide](https://www.example.com/productivity-guide)
+[^1]: Common guidelines for developing task management applications.
+[^2]: For more information, visit [The Productivity App Guide](https://www.example.com/productivity-guide).
